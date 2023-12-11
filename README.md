@@ -1,9 +1,9 @@
 Welcome to the Selu Thrift Store Application, a robust full-stack platform designed for seamless buying and selling of goods within the Selu community. This README provides technical details about the application, its features, and the technologies used.
 
-Overview
+Overview:
 This full-stack application leverages ASP.NET for the backend, Entity Framework for efficient data management, and a dynamic front end developed with React.js and TypeScript. The user interface boasts a sleek design using Mantine UI, complemented by Font Awesome for additional style.
 
-Features
+Features:
 User-Friendly Experience
 The application prioritizes a user-centric design, offering a smooth and intuitive experience for both buyers and sellers.
 
